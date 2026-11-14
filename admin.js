@@ -1,0 +1,1 @@
+// Admin functionality is intentionally inactive until Supabase authentication and RLS are configured.
